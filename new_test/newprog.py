@@ -6,4 +6,3 @@ def func(variable1, variable2):
 	else:
 		return "False"
 
-
